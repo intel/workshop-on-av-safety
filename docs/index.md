@@ -13,3 +13,5 @@ Automated Vehicles (AV) are maturing rapidly but safety is still an open problem
 - Cornelius Buerkle (Intel)
 - Bernd Gassmann (Intel)
 - Florian Wirth (KIT)
+- Maximilian Naumann (KIT)
+- Christoph Stiller (KIT)
