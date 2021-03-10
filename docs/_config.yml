@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+title: Workshop on Automated Vehicle Safety
+description: Collocated with IEEE Intelligent Transportation Systems Conference (ITSC)
+github:
+  is_project_page: false
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - workshop_2021.md
