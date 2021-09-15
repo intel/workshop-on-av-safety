@@ -1,6 +1,6 @@
 ## Agenda
 
-The workshop will take place on Sunday, September 19th in co-location to the IEEE International Conference on Intelligent Transportation Systems](https://2021.ieee-itsc.org/).
+The workshop will take place on Sunday, September 19th in co-location to the [IEEE International Conference on Intelligent Transportation Systems](https://2021.ieee-itsc.org/).
 The workshop will be a virtual event.
 
 |                 TIME                	|                                	|              	|               	|                             Speaker                            	|     Talk                                                                                                             	|
