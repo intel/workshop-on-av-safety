@@ -115,15 +115,22 @@ Click on images for talk details
         <p>Robotics & Machine Learning Specialist | Head of Department at FZI</p>
       </div>
   </div>
+  <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://intel.github.io/workshop-on-av-safety/talks.html#alsjung_talk"><img src="images/daniel_asljung.jpg" alt="Alsjung" style="width:100%" class="w3-hover-opacity"></a>
+      <div class="w3-container w3-white">
+        <p><b>Daniel Asljung</b></p>
+        <p>Doctoral Student at Chalmers University of Technology</p>
+      </div>
+  </div>
 </div>
 
 ## Agenda
 
 <table class="agenda">
   <tr>
-    <th colspan="4">TIME</td>
-    <th>Speaker</td>
-    <th>Talk </td>
+    <th colspan="4">TIME</th>
+    <th>Speaker</th>
+    <th>Talk </th>
   </tr>
   <tr>
     <td >PDT (GTM-7)</td>

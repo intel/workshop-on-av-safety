@@ -16,4 +16,6 @@ Waymo launched the first commercial fully autonomous ride-hailing service open t
 #### <a name="gay_talk">Principles and Applications of Aurora's Safaty Case Framework
 Aurora has adopted a safety case-based approach because we believe that it is the most logical and efficient manner to show and explain how Aurora determines that our self-driving vehicles are acceptably safe to operate on public roads. This talk will provide context and insight about our process and intentions for applying our Safety Case Framework, including how we tailor specific safety cases based on the product and operations. In addition, this presentation will also cover the role that Safety Performance Indicators play in helping to establish the validity of our specific safety cases as well as throughout our development and testing processes.
 
-
+### Daniel Asljung
+#### <a name="asljung_talk">On Automated Vehicle Collision Risk Estimation using Threat Metrics in Subset Simulation
+This paper presents a method for accelerated evaluation of an automated driving function using the subset simulation method. The focus of the paper is to investigate how the evaluation is affected by the choice of metric that is used to steer the subset simulation towards failure. It is found that all investigated metrics provide results relatively close to the reference, but the metrics relating to a state where collision is deemed to be unavoidable proved a little better.
