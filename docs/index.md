@@ -9,7 +9,6 @@
 </style>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-
 # Abstract
 
 Automated Vehicles (AV) are maturing rapidly but safety is still an open problem and we must address the challenge of AV safety together as an industry. With recent traffic incidents involving AVs under test, we believe that is important to address the safety challenges inherent in the technology and help the innovation to move forward. This workshop invites researchers, industry professionals, government officials to discuss, challenge and develop a holistic AV Safety methodology and related practices. We will host presentations around the state-of-the-art work contributing to verification, validation, testing and transparency of AV safety. Such presentations will be complemented with industry and government insights into the challenges and applicability methods to AV safety. 
@@ -50,7 +49,7 @@ Click on images for talk details
 </div>
 </div>
 
- <!-- Invited Speakers row 2-->
+<!-- Invited Speakers row 2-->
 <div class="w3-row-padding">
   <div class="w3-third w3-container w3-margin-bottom">
       <a href="talks.md#gay_talk"><img src="images/kevin_gay.jpeg" alt="Gay" style="width:100%" class="w3-hover-opacity"></a>
@@ -75,7 +74,7 @@ Click on images for talk details
   </div>
 </div>
 
- <!-- Invited Speakers row 3-->
+<!-- Invited Speakers row 3-->
 <div class="w3-row-padding">
   <div class="w3-third w3-container w3-margin-bottom">
       <img src="images/jan_becker.jpeg" alt="Becker" style="width:100%" class="w3-hover-opacity">
@@ -196,7 +195,7 @@ Click on images for talk details
     <td >17:10</td>
     <td colspan="2">Breakfast / Lunch / Dinner Break </td>
   </tr>
-    <tr>
+  <tr>
     <td >9:00</td>
     <td >12:00</td>
     <td >17:00</td>
@@ -204,7 +203,7 @@ Click on images for talk details
     <td >Anthony Corso - Stanford University</td>
     <td >"AI Safety Validation"</td>
   </tr>
-    <tr>
+  <tr>
     <td >9:20</td>
     <td >12:20</td>
     <td >17:20</td>
@@ -212,7 +211,7 @@ Click on images for talk details
     <td >Jan Becker - Apex.AI</td>
     <td >"Apex.OS ASIL D Certification"</td>
   </tr>
-    <tr>
+  <tr>
     <td >9:40</td>
     <td >12:40</td>
     <td >17:40</td>
@@ -220,7 +219,7 @@ Click on images for talk details
     <td >Kevin Gay - Aurora</td>
     <td >"Principles and Applications of Aurora's Safety Case Framework"</td>
   </tr>
-    <tr>
+  <tr>
     <td >10:00</td>
     <td >13:00</td>
     <td >18:00</td>
@@ -228,7 +227,7 @@ Click on images for talk details
     <td >Ed Straub - SAE</td>
     <td >"Motor Vehicle Standards and SAE Research Initiatives Overview"</td>
   </tr>
-    <tr>
+  <tr>
     <td >10:20</td>
     <td >13:20</td>
     <td >18:20</td>
