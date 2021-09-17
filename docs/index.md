@@ -1,5 +1,3 @@
-
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
 .agenda {
     width: 70%;
@@ -9,6 +7,7 @@
 .agenda tr:nth-child(1) { background: grey; }
 }
 </style>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 
 # Abstract
@@ -28,26 +27,27 @@ Click on images for talk details
 
  <!-- Invited Speakers row 1-->
 <div class="w3-row-padding">
-  <div class="w3-third w3-container w3-margin-bottom">
-      <a href="talks.md#trapp_talk"><img src="images/mario_trapp.jpeg" alt="Trapp" style="width:100%" class="w3-hover-opacity"></a>
-      <div class="w3-container w3-white">
-      <p><b>Mario Trapp</b></p>
-      <p>Executive Director at Fraunhofer Institute for Cognitive Systems.</p>
-      </div>
-  </div>
-  <div class="w3-third w3-container w3-margin-bottom">
-      <a href="talks.md#nitsch_talk"><img src="images/julia_nitsch.jpeg" alt="Nitsch" style="width:100%" class="w3-hover-opacity"></a>
-      <div class="w3-container w3-white">
-      <p><b>Julia Nitsch</b></p>
-      <p>System Developer at Ibeo Automotive Systems</p>
-      </div>
-  </div>
-  <div class="w3-third w3-container">
-      <a href="talks.md#favaro_talk"><img src="images/francesca_favaro.jpeg" alt="Favaro" style="width:100%" class="w3-hover-opacity"></a>
-      <div class="w3-container w3-white">
-      <p><b>Francesca Favaro</b></p>
-      <p>Best Practices Specialist at Waymo.</p>
-  </div>
+<div class="w3-third w3-container w3-margin-bottom">
+    <a href="talks.md#trapp_talk"><img src="images/mario_trapp.jpeg" alt="Trapp" style="width:100%" class="w3-hover-opacity"></a>
+    <div class="w3-container w3-white">
+    <p><b>Mario Trapp</b></p>
+    <p>Executive Director at Fraunhofer Institute for Cognitive Systems.</p>
+    </div>
+</div>
+<div class="w3-third w3-container w3-margin-bottom">
+    <a href="talks.md#nitsch_talk"><img src="images/julia_nitsch.jpeg" alt="Nitsch" style="width:100%" class="w3-hover-opacity"></a>
+    <div class="w3-container w3-white">
+    <p><b>Julia Nitsch</b></p>
+    <p>System Developer at Ibeo Automotive Systems</p>
+    </div>
+</div>
+<div class="w3-third w3-container">
+    <a href="talks.md#favaro_talk"><img src="images/francesca_favaro.jpeg" alt="Favaro" style="width:100%" class="w3-hover-opacity"></a>
+    <div class="w3-container w3-white">
+    <p><b>Francesca Favaro</b></p>
+    <p>Best Practices Specialist at Waymo.</p>
+    </div>
+</div>
 </div>
 
  <!-- Invited Speakers row 2-->
@@ -71,6 +71,7 @@ Click on images for talk details
       <div class="w3-container w3-white">
       <p><b>Peter Popov</b></p>
       <p>Associate Dean School of Mathematics, Computer Science and Engineering at City, University of London</p>
+      </div>
   </div>
 </div>
 
@@ -93,8 +94,9 @@ Click on images for talk details
   <div class="w3-third w3-container">
       <img src="images/ed_straub.jpeg" alt="Straub" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
-      <p><b>Ed Straub</b></p>
-      <p>Vice President, Land-based systems at SAE ITC</p>
+        <p><b>Ed Straub</b></p>
+        <p>Vice President, Land-based systems at SAE ITC</p>
+      </div>
   </div>
 </div>
 
@@ -103,162 +105,160 @@ Click on images for talk details
   <div class="w3-third w3-container w3-margin-bottom">
       <img src="images/michelle_chaka.jpeg" alt="Becker" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
-      <p><b>Michelle Chaka</b></p>
-      <p>Division Director for Data and Analytics at Virginia Tech Transportation Institute</p>
+        <p><b>Michelle Chaka</b></p>
+        <p>Division Director for Data and Analytics at Virginia Tech Transportation Institute</p>
       </div>
   </div>
   <div class="w3-third w3-container w3-margin-bottom">
       <img src="images/sahin_tas.jpeg" alt="Corso" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
-      <p><b>Oemer Sahin Tas</b></p>
-      <p>Robotics & Machine Learning Specialist | Head of Department at FZI</p>
+        <p><b>Oemer Sahin Tas</b></p>
+        <p>Robotics & Machine Learning Specialist | Head of Department at FZI</p>
       </div>
   </div>
 </div>
 
 ## Agenda
 
-<div class="agenda">
-  <table>
+<table class="agenda">
+  <tr>
+    <th colspan="4">TIME</td>
+    <th>Speaker</td>
+    <th>Talk </td>
+  </tr>
+  <tr>
+    <td >PDT (GTM-7)</td>
+    <td >EDT (GTM-4) <b> (Local Conference Time)</b></td>
+    <td >UK (GTM+1)</td>
+    <td >Central Europe (GTM+2)</td>
+    <td ></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td >6:00</td>
+    <td >9:00</td>
+    <td >14:00</td>
+    <td >15:00</td>
+    <td colspan=2>Workshop Introduction</td>
+  </tr>
+  <tr>
+    <td >6:10</td>
+    <td >9:10</td>
+    <td >14:10</td>
+    <td >15:10</td>
+    <td >Mario Trapp - Fraunhofer Institute</td>
+    <td >"Towards managing Perception Uncertainty for Automated Driving"</td>
+  </tr>
+  <tr>
+    <td >6:30</td>
+    <td >9:30</td>
+    <td >14:30</td>
+    <td >15:30</td>
+    <td >Michelle Chaka - VTTI</td>
+    <td >"TBC"</td>
+  </tr>
+  <tr>
+    <td >6:50</td>
+    <td >9:50</td>
+    <td >14:50</td>
+    <td >15:50</td>
+    <td >Sahin Tas - KIT</td>
+    <td >"Safe and Convenient Decision Making at Occluded Intersections"</td>
+  </tr>
+  <tr>
+    <td >7:10</td>
+    <td >10:10</td>
+    <td >15:10</td>
+    <td >16:10</td>
+    <td >Robin Bloomfield - City University of London</td>
+    <td >"A new approach to Developing Safety-case templates for Autonomous Systems with Machine Learning"</td>
+  </tr>
+  <tr>
+    <td >7:30</td>
+    <td >10:30</td>
+    <td >15:30</td>
+    <td >16:30</td>
+    <td >Peter Popov - City University of London</td>
+    <td >"Probabilistic Models in AV safety assesment"</td>
+  </tr>
+  <tr>
+    <td >7:50</td>
+    <td >10:50</td>
+    <td >15:50</td>
+    <td >16:50</td>
+    <td >Francesca Favaris - Waymo</td>
+    <td >"Waymo Readiness Evaluation for Fully Autonomous Ride-Hailing"</td>
+  </tr>
+  <tr>
+    <td >8:10</td>
+    <td >11:10</td>
+    <td >16:10</td>
+    <td >17:10</td>
+    <td colspan="2">Breakfast / Lunch / Dinner Break </td>
+  </tr>
     <tr>
-      <th colspan="4">TIME</td>
-      <th>Speaker</td>
-      <th>Talk </td>
-    </tr>
+    <td >9:00</td>
+    <td >12:00</td>
+    <td >17:00</td>
+    <td >18:00</td>
+    <td >Anthony Corso - Stanford University</td>
+    <td >"AI Safety Validation"</td>
+  </tr>
     <tr>
-      <td >PDT (GTM-7)</td>
-      <td >EDT (GTM-4) <b> (Local Conference Time)</b></td>
-      <td >UK (GTM+1)</td>
-      <td >Central Europe (GTM+2)</td>
-      <td ></td>
-      <td ></td>
-    </tr>
+    <td >9:20</td>
+    <td >12:20</td>
+    <td >17:20</td>
+    <td >18:20</td>
+    <td >Jan Becker - Apex.AI</td>
+    <td >"Apex.OS ASIL D Certification"</td>
+  </tr>
     <tr>
-      <td >6:00</td>
-      <td >9:00</td>
-      <td >14:00</td>
-      <td >15:00</td>
-      <td colspan=2>Workshop Introduction</td>
-    </tr>
+    <td >9:40</td>
+    <td >12:40</td>
+    <td >17:40</td>
+    <td >18:40</td>
+    <td >Kevin Gay - Aurora</td>
+    <td >"Principles and Applications of Aurora's Safety Case Framework"</td>
+  </tr>
     <tr>
-      <td >6:10</td>
-      <td >9:10</td>
-      <td >14:10</td>
-      <td >15:10</td>
-      <td >Mario Trapp - Fraunhofer Institute</td>
-      <td >"Towards managing Perception Uncertainty for Automated Driving"</td>
-    </tr>
+    <td >10:00</td>
+    <td >13:00</td>
+    <td >18:00</td>
+    <td >19:00</td>
+    <td >Ed Straub - SAE</td>
+    <td >"Motor Vehicle Standards and SAE Research Initiatives Overview"</td>
+  </tr>
     <tr>
-      <td >6:30</td>
-      <td >9:30</td>
-      <td >14:30</td>
-      <td >15:30</td>
-      <td >Michelle Chaka - VTTI</td>
-      <td >"TBC"</td>
-    </tr>
-    <tr>
-      <td >6:50</td>
-      <td >9:50</td>
-      <td >14:50</td>
-      <td >15:50</td>
-      <td >Sahin Tas - KIT</td>
-      <td >"Safe and Convenient Decision Making at Occluded Intersections"</td>
-    </tr>
-    <tr>
-      <td >7:10</td>
-      <td >10:10</td>
-      <td >15:10</td>
-      <td >16:10</td>
-      <td >Robin Bloomfield - City University of London</td>
-      <td >"A new approach to Developing Safety-case templates for Autonomous Systems with Machine Learning"</td>
-    </tr>
-    <tr>
-      <td >7:30</td>
-      <td >10:30</td>
-      <td >15:30</td>
-      <td >16:30</td>
-      <td >Peter Popov - City University of London</td>
-      <td >"Probabilistic Models in AV safety assesment"</td>
-    </tr>
-    <tr>
-      <td >7:50</td>
-      <td >10:50</td>
-      <td >15:50</td>
-      <td >16:50</td>
-      <td >Francesca Favaris - Waymo</td>
-      <td >"Waymo Readiness Evaluation for Fully Autonomous Ride-Hailing"</td>
-    </tr>
-    <tr>
-      <td >8:10</td>
-      <td >11:10</td>
-      <td >16:10</td>
-      <td >17:10</td>
-      <td colspan="2">Breakfast / Lunch / Dinner Break </td>
-    </tr>
-      <tr>
-      <td >9:00</td>
-      <td >12:00</td>
-      <td >17:00</td>
-      <td >18:00</td>
-      <td >Anthony Corso - Stanford University</td>
-      <td >"AI Safety Validation"</td>
-    </tr>
-      <tr>
-      <td >9:20</td>
-      <td >12:20</td>
-      <td >17:20</td>
-      <td >18:20</td>
-      <td >Jan Becker - Apex.AI</td>
-      <td >"Apex.OS ASIL D Certification"</td>
-    </tr>
-      <tr>
-      <td >9:40</td>
-      <td >12:40</td>
-      <td >17:40</td>
-      <td >18:40</td>
-      <td >Kevin Gay - Aurora</td>
-      <td >"Principles and Applications of Aurora's Safety Case Framework"</td>
-    </tr>
-      <tr>
-      <td >10:00</td>
-      <td >13:00</td>
-      <td >18:00</td>
-      <td >19:00</td>
-      <td >Ed Straub - SAE</td>
-      <td >"Motor Vehicle Standards and SAE Research Initiatives Overview"</td>
-    </tr>
-      <tr>
-      <td >10:20</td>
-      <td >13:20</td>
-      <td >18:20</td>
-      <td >19:20</td>
-      <td >Julia Nitsch - Ibeo</td>
-      <td >"Robust Automotive Perception in Urban Environments"</td>
-    </tr>
-    <tr>
-      <td >10:40</td>
-      <td >13:40</td>
-      <td >18:40</td>
-      <td >19:40</td>
-      <td >Daniel Asljung - Zenseact</td>
-      <td >"On Automated Vehicle Collision Risk Estimation using Threat Metrics in Subset Simulation"</td>
-    </tr>
-    <tr>
-      <td >11:00</td>
-      <td >14:00</td>
-      <td >19:00</td>
-      <td >20:00</td>
-      <td colspan=2>Panel Discussion</td>
-    </tr>
-    <tr>
-      <td >11:20</td>
-      <td >14:20</td>
-      <td >19:20</td>
-      <td >20:20</td>
-      <td colspan=2>End of Session</td>
-    </tr>
-  </table>
-</div>
+    <td >10:20</td>
+    <td >13:20</td>
+    <td >18:20</td>
+    <td >19:20</td>
+    <td >Julia Nitsch - Ibeo</td>
+    <td >"Robust Automotive Perception in Urban Environments"</td>
+  </tr>
+  <tr>
+    <td >10:40</td>
+    <td >13:40</td>
+    <td >18:40</td>
+    <td >19:40</td>
+    <td >Daniel Asljung - Zenseact</td>
+    <td >"On Automated Vehicle Collision Risk Estimation using Threat Metrics in Subset Simulation"</td>
+  </tr>
+  <tr>
+    <td >11:00</td>
+    <td >14:00</td>
+    <td >19:00</td>
+    <td >20:00</td>
+    <td colspan=2>Panel Discussion</td>
+  </tr>
+  <tr>
+    <td >11:20</td>
+    <td >14:20</td>
+    <td >19:20</td>
+    <td >20:20</td>
+    <td colspan=2>End of Session</td>
+  </tr>
+</table>
 
 <!-- Organizing Container -->
 <div class="w3-container w3-padding-64 w3-center" id="team">
