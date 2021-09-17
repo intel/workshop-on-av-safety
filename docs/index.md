@@ -15,10 +15,10 @@ Automated Vehicles (AV) are maturing rapidly but safety is still an open problem
 
 ## Venue
 
-This workshop will take place on Sunday, September 19th co-located with the [IEEE International Conference on Intelligent Transportation Systems, ITSC 2021](https://2021.ieee-itsc.org/).
+This workshop will take place on Sunday, September 19th co-located with the <a href="https://2021.ieee-itsc.org">IEEE International Conference on Intelligent Transportation Systems, ITSC 2021</a>.
 The workshop will take place as a virtual event. 
 
-See [ITSC registration](https://2021.ieee-itsc.org/registration/) to attend.
+See <a href="https://2021.ieee-itsc.org/registration/">ITSC registration</a> to attend.
 
 ## Invited Speakers
 
@@ -27,21 +27,21 @@ Click on images for talk details
  <!-- Invited Speakers row 1-->
 <div class="w3-row-padding">
 <div class="w3-third w3-container w3-margin-bottom">
-    <a href="talks.md#trapp_talk"><img src="images/mario_trapp.jpeg" alt="Trapp" style="width:100%" class="w3-hover-opacity"></a>
+    <a href="https://intel.github.io/workshop-on-av-safety/talks.html#trapp_talk"><img src="images/mario_trapp.jpeg" alt="Trapp" style="width:100%" class="w3-hover-opacity"></a>
     <div class="w3-container w3-white">
     <p><b>Mario Trapp</b></p>
     <p>Executive Director at Fraunhofer Institute for Cognitive Systems.</p>
     </div>
 </div>
 <div class="w3-third w3-container w3-margin-bottom">
-    <a href="talks.md#nitsch_talk"><img src="images/julia_nitsch.jpeg" alt="Nitsch" style="width:100%" class="w3-hover-opacity"></a>
+    <a href="https://intel.github.io/workshop-on-av-safety/talks.html#nitsch_talk"><img src="images/julia_nitsch.jpeg" alt="Nitsch" style="width:100%" class="w3-hover-opacity"></a>
     <div class="w3-container w3-white">
     <p><b>Julia Nitsch</b></p>
     <p>System Developer at Ibeo Automotive Systems</p>
     </div>
 </div>
 <div class="w3-third w3-container">
-    <a href="talks.md#favaro_talk"><img src="images/francesca_favaro.jpeg" alt="Favaro" style="width:100%" class="w3-hover-opacity"></a>
+    <a href="https://intel.github.io/workshop-on-av-safety/talks.html#favaro_talk"><img src="images/francesca_favaro.jpeg" alt="Favaro" style="width:100%" class="w3-hover-opacity"></a>
     <div class="w3-container w3-white">
     <p><b>Francesca Favaro</b></p>
     <p>Best Practices Specialist at Waymo.</p>
@@ -52,7 +52,7 @@ Click on images for talk details
 <!-- Invited Speakers row 2-->
 <div class="w3-row-padding">
   <div class="w3-third w3-container w3-margin-bottom">
-      <a href="talks.md#gay_talk"><img src="images/kevin_gay.jpeg" alt="Gay" style="width:100%" class="w3-hover-opacity"></a>
+      <a href="https://intel.github.io/workshop-on-av-safety/talks.html#gay_talk"><img src="images/kevin_gay.jpeg" alt="Gay" style="width:100%" class="w3-hover-opacity"></a>
       <div class="w3-container w3-white">
       <p><b>Kevin Gay</b></p>
       <p>Director, Safety Standards Policy at Aurora</p>
@@ -266,51 +266,51 @@ Click on images for talk details
   <div class="w3-row"><br>
     <div class="w3-quarter">
     <a href="https://www.linkedin.com/in/ignacio-alvarez/" target="_blank"  rel="Ignacio Alvarez"><img src="images/ignacio_alvarez.jpeg" alt="Alvarez" style="width:45%" class="w3-circle w3-hover-opacity"> </a>
-      <h4>Ignacio Alvarez</h3>
+      <h4>Ignacio Alvarez</h4>
       <p>Intel</p>
     </div>
     <div class="w3-quarter">
       <a href="https://www.linkedin.com/in/soledadelli/" target="_blank"  rel="Maria Elli"><img src="images/maria_elli.jpeg" alt="Elli" style="width:45%" class="w3-circle w3-hover-opacity"></a>
-      <h4>Maria Elli</h3>
+      <h4>Maria Elli</h4>
       <p>Intel</p>
     </div>
     <div class="w3-quarter">
       <a href="https://www.linkedin.com/in/dr-ing-fabian-oboril-0b1b9a53/" target="_blank"  rel=""><img src="images/fabian_oboril.jpeg" alt="Oboril" style="width:45%" class="w3-circle w3-hover-opacity"></a>
-      <h4>Fabian Oboril</h3>
+      <h4>Fabian Oboril</h4>
       <p>Intel</p>
     </div>
   </div>
   <div class="w3-row"><br>
     <div class="w3-quarter">
       <a href="https://www.linkedin.com/in/cb99/" target="_blank"  rel="Cornelius Buerkle"><img src="images/cornelius_buerkle.jpeg" alt="Buerkle" style="width:45%" class="w3-circle w3-hover-opacity"></a>
-      <h4>Cornelius Buerkle</h3>
+      <h4>Cornelius Buerkle</h4>
       <p>Intel</p>
     </div>
     <div class="w3-quarter">
       <a href="https://www.linkedin.com/in/dr-ing-bernd-gassmann-47556011b/" target="_blank"  rel=""><img src="images/bernd_gassmann.jpeg" alt="Gassmann" style="width:45%" class="w3-circle w3-hover-opacity"></a>
-      <h4>Bernd Gassmann</h3>
+      <h4>Bernd Gassmann</h4>
       <p>Intel</p>
     </div>
     <div class="w3-quarter">
       <a href="https://www.linkedin.com/in/maximilian-naumann/" target="_blank"  rel=""><img src="images/max_naumann.jpeg" alt="Naumann" style="width:45%" class="w3-circle w3-hover-opacity"></a>
-      <h4>Maximilian Naumann</h3>
+      <h4>Maximilian Naumann</h4>
       <p>Bosch</p>
     </div>
   </div>
   <div class="w3-row"><br>
     <div class="w3-quarter">
       <a href="https://www.linkedin.com/in/florian-wirth-954794150/" target="_blank"  rel=""><img src="images/florian_wirth.jpeg" alt="Wirth" style="width:45%" class="w3-circle w3-hover-opacity"></a>
-      <h4>Florian Wirth</h3>
+      <h4>Florian Wirth</h4>
       <p>KIT</p>
     </div>
     <div class="w3-quarter">
       <a href="https://www.linkedin.com/in/jack-weast-1a25b52/" target="_blank"  rel=""><img src="images/jack_weast.jpeg" alt="Weast" style="width:45%" class="w3-circle w3-hover-opacity"></a>
-      <h4>Jack Weast</h3>
+      <h4>Jack Weast</h4>
       <p>Intel</p>
     </div>
     <div class="w3-quarter">
       <a href="https://www.linkedin.com/in/christoph-stiller-76a71123/" target="_blank"  rel=""><img src="images/christoph_stiller.jpeg" alt="Stiller" style="width:45%" class="w3-circle w3-hover-opacity"></a>
-      <h4>Christoph Stiller</h3>
+      <h4>Christoph Stiller</h4>
       <p>KIT</p>
     </div>
   </div>
